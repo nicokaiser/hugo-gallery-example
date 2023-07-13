@@ -17,6 +17,9 @@ wget --no-clobber --content-disposition --directory-prefix=content/animals/cats 
 wget --no-clobber --content-disposition --directory-prefix=content/animals/cats "https://unsplash.com/photos/LEpfefQf4rU/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTF8fGNhdHxlbnwwfHx8fDE2ODkxOTQ5OTB8MA&force=true"
 wget --no-clobber --content-disposition --directory-prefix=content/animals/cats "https://unsplash.com/photos/nKC772R_qog/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTR8fGNhdHxlbnwwfHx8fDE2ODkxOTQ5OTB8MA&force=true"
 
+exiftool -ImageDescription="Brown tabby cat on white stairs by Alexander London" content/animals/cats/alexander-london-mJaD10XeD7w-unsplash.jpg
+exiftool -ImageDescription="selective focus photography of orange and white cat on brown table by Amber Kipp" content/animals/cats/amber-kipp-75715CVEJhI-unsplash.jpg
+
 # Animals/Dogs
 wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/Sg3XwuEpybU/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8ZG9nfGVufDB8fHx8MTY4OTE5NTQ1MXww&force=true"
 wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/Mv9hjnEUHR4/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8ZG9nfGVufDB8fHx8MTY4OTE5NTQ1MXww&force=true"
