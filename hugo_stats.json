@@ -116,6 +116,7 @@
       "text-neutral-900",
       "text-sm",
       "text-xl",
+      "tracking-tight",
       "transition-[filter]",
       "transition-colors",
       "underline",
