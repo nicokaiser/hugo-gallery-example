@@ -29,6 +29,7 @@
       "-me-4",
       "-ms-4",
       "3xl:grid-cols-5",
+      "antialiased",
       "aspect-[3/2]",
       "bg-neutral-100",
       "bg-white",
