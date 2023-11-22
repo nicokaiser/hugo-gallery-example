@@ -8,8 +8,13 @@ module.exports = {
   },
   theme: {
     extend: {
+      colors: {
+        neutral: {
+          850: "#1f1f1f",
+        },
+      },
       fontFamily: {
-        sans: ["Inter var", ...defaultTheme.fontFamily.sans],
+        sans: ["InterVariable", ...defaultTheme.fontFamily.sans],
       },
       screens: {
         "3xl": "1792px",
