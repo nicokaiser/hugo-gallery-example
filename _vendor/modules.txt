@@ -1,1 +1,1 @@
-# github.com/nicokaiser/hugo-theme-gallery v0.0.0-20231122113845-52573f5990d6
+# github.com/nicokaiser/hugo-theme-gallery v0.0.0-20231210120730-ebca6054e59a
