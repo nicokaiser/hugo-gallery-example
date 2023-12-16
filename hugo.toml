@@ -5,7 +5,7 @@ disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 timeZone = "Europe/Berlin"
-theme = "github.com/nicokaiser/hugo-theme-gallery"
+theme = "github.com/nicokaiser/hugo-theme-gallery/v2"
 timeout = "120s"
 
 [params]
@@ -33,29 +33,6 @@ timeout = "120s"
   [module.hugoVersion]
     extended = false
     min = "0.112.0"
-  [[module.imports]]
-    path = 'github.com/nicokaiser/hugo-theme-gallery'
-  [[module.mounts]]
-    source = "assets"
-    target = "assets"
-  [[module.mounts]]
-    source = "hugo_stats.json"
-    target = "assets/watching/hugo_stats.json"
-
-[build]
-  writeStats = true
-  [[build.cachebusters]]
-    source = "assets/watching/hugo_stats\\.json"
-    target = "styles\\.css"
-  [[build.cachebusters]]
-    source = "(postcss|tailwind)\\.config\\.js"
-    target = "css"
-  [[build.cachebusters]]
-    source = "assets/.*\\.(js)"
-    target = "js"
-  [[build.cachebusters]]
-    source = "assets/.*\\.(.*)$"
-    target = "$1"
 
 [menu]
 [[menu.footer]]
