@@ -14,7 +14,7 @@
     "prettier": "^3.1.1",
     "prettier-plugin-go-template": "^0.0.15",
     "rimraf": "^5.0.5",
-    "tailwindcss": "^3.3.6",
+    "tailwindcss": "^3.4.0",
     "vendor-copy": "^3.0.1"
   },
   "private": "true",
@@ -22,8 +22,8 @@
     "preinstall": "rimraf assets/lib",
     "postinstall": "vendor-copy",
     "assets": "rimraf assets/lib && vendor-copy",
-    "dev": "postcss ./assets/css/styles.css -o ./assets/css/compiled/styles.css --watch",
-    "build": "postcss ./assets/css/styles.css -o ./assets/css/compiled/styles.css"
+    "dev": "postcss ./assets/css/styles.css -o ./assets/css/built/styles.css --watch",
+    "build": "postcss ./assets/css/styles.css -o ./assets/css/built/styles.css"
   },
   "vendorCopy": [],
   "devVendorCopy": [
@@ -68,5 +68,5 @@
       "to": "assets/lib/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css"
     }
   ],
-  "version": "2.0.3"
+  "version": "2.1.0"
 }
