@@ -3,7 +3,7 @@
     "@alpinejs/collapse": "^3.13.3",
     "@tailwindcss/typography": "^0.5.10",
     "alpinejs": "^3.13.3",
-    "autoprefixer": "^10.4.16",
+    "autoprefixer": "^10.4.17",
     "flickr-justified-gallery": "^2.1.2",
     "lazysizes": "^5.3.2",
     "photoswipe": "^5.4.3",
@@ -11,7 +11,7 @@
     "postcss": "^8.4.33",
     "postcss-cli": "^11.0.0",
     "postcss-import": "^16.0.0",
-    "prettier": "^3.2.2",
+    "prettier": "^3.2.4",
     "prettier-plugin-go-template": "^0.0.15",
     "prettier-plugin-organize-attributes": "^1.0.0",
     "prettier-plugin-tailwindcss": "^0.5.11",
@@ -25,7 +25,8 @@
     "postinstall": "vendor-copy",
     "assets": "rimraf assets/lib && vendor-copy",
     "dev": "postcss ./assets/css/styles.css -o ./assets/css/built/styles.css --watch",
-    "build": "postcss ./assets/css/styles.css -o ./assets/css/built/styles.css"
+    "build": "postcss ./assets/css/styles.css -o ./assets/css/built/styles.css",
+    "prettier": "prettier layouts --write"
   },
   "vendorCopy": [],
   "devVendorCopy": [
@@ -70,5 +71,5 @@
       "to": "assets/lib/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css"
     }
   ],
-  "version": "2.3.1"
+  "version": "2.4.0"
 }
