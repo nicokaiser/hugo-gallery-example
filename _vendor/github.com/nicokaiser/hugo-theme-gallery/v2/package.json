@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.10",
-    "alpinejs": "^3.13.4",
+    "alpinejs": "^3.13.5",
     "autoprefixer": "^10.4.17",
     "flickr-justified-gallery": "^2.1.2",
     "lazysizes": "^5.3.2",
@@ -66,5 +66,5 @@
       "to": "assets/lib/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css"
     }
   ],
-  "version": "2.4.1"
+  "version": "2.4.2"
 }
