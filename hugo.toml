@@ -1,5 +1,5 @@
 title = "Gallery"
-languageCode = "en-us"
+languageCode = "en"
 copyright = "© Your Name"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
