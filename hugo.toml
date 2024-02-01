@@ -12,9 +12,9 @@ timeout = "120s"
   title = "My Gallery"
   description = "Example site for hugo-theme-gallery"
   defaultTheme = "dark"
-
-[author]
-  name = "Your Name"
+  [params.author]
+    name = "Your Name"
+    email = "user@example.com"
 
 [outputs]
   page = ["HTML"]
@@ -35,7 +35,11 @@ timeout = "120s"
     min = "0.112.0"
 
 [menu]
-[[menu.footer]]
-  name = "GitHub"
-  url = "https://github.com/nicokaiser/hugo-theme-gallery/"
-  weight = 3
+  [[menu.footer]]
+    name = "GitHub"
+    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    weight = 3
+
+[services]
+  [services.rss]
+    limit = 100
