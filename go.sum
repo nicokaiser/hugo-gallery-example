@@ -40,3 +40,5 @@ github.com/nicokaiser/hugo-theme-gallery/v2 v2.6.0 h1:byDBuuqXTyvqiyfZMqHGVsOvb7
 github.com/nicokaiser/hugo-theme-gallery/v2 v2.6.0/go.mod h1:o9pbetoW14OfOYJnKs4JIx8kqWu1nvR2jaORM9ziw80=
 github.com/nicokaiser/hugo-theme-gallery/v2 v2.6.1-0.20240202162424-3fa1156663a8 h1:GwwS/pybysvsp+/QW1lqrTiJh4wJc2ivcN1Inw3I6Y0=
 github.com/nicokaiser/hugo-theme-gallery/v2 v2.6.1-0.20240202162424-3fa1156663a8/go.mod h1:o9pbetoW14OfOYJnKs4JIx8kqWu1nvR2jaORM9ziw80=
+github.com/nicokaiser/hugo-theme-gallery/v2 v2.6.1-0.20240202222738-270733eca25f h1:eH3kxXPWBF6za2POAfOKoNw8Tvrtg5id3G/XnR2zpxI=
+github.com/nicokaiser/hugo-theme-gallery/v2 v2.6.1-0.20240202222738-270733eca25f/go.mod h1:o9pbetoW14OfOYJnKs4JIx8kqWu1nvR2jaORM9ziw80=
