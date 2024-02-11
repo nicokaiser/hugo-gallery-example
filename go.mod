@@ -2,4 +2,4 @@ module github.com/nicokaiser/hugo-gallery-starter
 
 go 1.20
 
-require github.com/nicokaiser/hugo-theme-gallery/v2 v2.7.0 // indirect
+require github.com/nicokaiser/hugo-theme-gallery/v2 v2.7.1-0.20240211214221-db908d991700 // indirect
