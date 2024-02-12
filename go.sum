@@ -8,3 +8,5 @@ github.com/nicokaiser/hugo-theme-gallery/v2 v2.7.0 h1:WkF/DRCma5u+fuNoTkSoye+7bp
 github.com/nicokaiser/hugo-theme-gallery/v2 v2.7.0/go.mod h1:o9pbetoW14OfOYJnKs4JIx8kqWu1nvR2jaORM9ziw80=
 github.com/nicokaiser/hugo-theme-gallery/v2 v2.7.1-0.20240211214221-db908d991700 h1:KPADIXtzUfy3Et4ngW+130F8jG4fyD3kw/wdByvzyv0=
 github.com/nicokaiser/hugo-theme-gallery/v2 v2.7.1-0.20240211214221-db908d991700/go.mod h1:o9pbetoW14OfOYJnKs4JIx8kqWu1nvR2jaORM9ziw80=
+github.com/nicokaiser/hugo-theme-gallery/v2 v2.7.1-0.20240212172456-7895521f3234 h1:Yre5zN4dPJ2ppnUemtmlTIX7mOEY9wkdcd3ssp+O+xk=
+github.com/nicokaiser/hugo-theme-gallery/v2 v2.7.1-0.20240212172456-7895521f3234/go.mod h1:o9pbetoW14OfOYJnKs4JIx8kqWu1nvR2jaORM9ziw80=
