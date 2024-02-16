@@ -1,5 +1,6 @@
 [build.environment]
   HUGO_VERSION = "0.113.0"
+  NODE_VERSION = "20"
 
 [build]
   command = "hugo --gc --minify"
