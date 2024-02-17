@@ -1,7 +1,7 @@
 {
   "private": "true",
   "scripts": {
-    "dev": "hugo server",
-    "build": "hugo --gc --minify"
+    "build": "hugo --gc --minify",
+    "dev": "hugo server"
   }
 }
