@@ -1,22 +1,22 @@
 {
   "comments": {
     "dependencies": {
-      "@tailwindcss/typography": "github.com/nicokaiser/hugo-theme-gallery/v2",
-      "autoprefixer": "github.com/nicokaiser/hugo-theme-gallery/v2",
-      "justified-layout": "github.com/nicokaiser/hugo-theme-gallery/v2",
-      "photoswipe": "github.com/nicokaiser/hugo-theme-gallery/v2",
-      "photoswipe-dynamic-caption-plugin": "github.com/nicokaiser/hugo-theme-gallery/v2",
-      "postcss": "github.com/nicokaiser/hugo-theme-gallery/v2",
-      "postcss-cli": "github.com/nicokaiser/hugo-theme-gallery/v2",
-      "postcss-import": "github.com/nicokaiser/hugo-theme-gallery/v2",
-      "tailwindcss": "github.com/nicokaiser/hugo-theme-gallery/v2"
+      "@tailwindcss/typography": "github.com/nicokaiser/hugo-theme-gallery/v3",
+      "autoprefixer": "github.com/nicokaiser/hugo-theme-gallery/v3",
+      "justified-layout": "github.com/nicokaiser/hugo-theme-gallery/v3",
+      "photoswipe": "github.com/nicokaiser/hugo-theme-gallery/v3",
+      "photoswipe-dynamic-caption-plugin": "github.com/nicokaiser/hugo-theme-gallery/v3",
+      "postcss": "github.com/nicokaiser/hugo-theme-gallery/v3",
+      "postcss-cli": "github.com/nicokaiser/hugo-theme-gallery/v3",
+      "postcss-import": "github.com/nicokaiser/hugo-theme-gallery/v3",
+      "tailwindcss": "github.com/nicokaiser/hugo-theme-gallery/v3"
     },
     "devDependencies": {
-      "prettier": "github.com/nicokaiser/hugo-theme-gallery/v2",
-      "prettier-plugin-css-order": "github.com/nicokaiser/hugo-theme-gallery/v2",
-      "prettier-plugin-go-template": "github.com/nicokaiser/hugo-theme-gallery/v2",
-      "prettier-plugin-organize-attributes": "github.com/nicokaiser/hugo-theme-gallery/v2",
-      "prettier-plugin-tailwindcss": "github.com/nicokaiser/hugo-theme-gallery/v2"
+      "prettier": "github.com/nicokaiser/hugo-theme-gallery/v3",
+      "prettier-plugin-css-order": "github.com/nicokaiser/hugo-theme-gallery/v3",
+      "prettier-plugin-go-template": "github.com/nicokaiser/hugo-theme-gallery/v3",
+      "prettier-plugin-organize-attributes": "github.com/nicokaiser/hugo-theme-gallery/v3",
+      "prettier-plugin-tailwindcss": "github.com/nicokaiser/hugo-theme-gallery/v3"
     }
   },
   "dependencies": {
