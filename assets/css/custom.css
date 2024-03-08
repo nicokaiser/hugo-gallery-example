@@ -13,3 +13,17 @@ html.dark {
   --text-1: #f8f9fa;
   --text-2: #868e96;
 }
+
+
+.featured-card {
+  transition-duration: 150ms;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+
+  &:hover {
+    transform: scaleX(100.33%) scaleY(100.33%);
+    box-shadow:
+      0 10px 15px -3px rgba(0, 0, 0, 0.1),
+      0 4px 6px -4px rgba(0, 0, 0, 0.1);
+  }
+}
